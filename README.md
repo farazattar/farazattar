@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faraz Attar.
 - 👀 I’m interested in Data Science, especially Machine Learning (ML), Natural Language Processing (NLP) and Computer Vision (CV). I'm also have an interest in designing web applications.
-- 🌱 I’m currently focusing on Deep Learning and Recurrent Neural Networks. Additionally, I'm trying to improve my coding skills (Python, PHP, C, C#, JavaScript, ...). 
+- 🌱 I’m currently focusing on Deep Learning and Recurrent Neural Networks. Additionally, I'm trying to improve my coding skills (Python, PHP, Perl, C, C#, JavaScript, ...). 
 - 💞️ I’m looking to collaborate on projects related to data science.
 - 📫 How to reach me: You can email me at: farazattar1985@gmail.com.
 
