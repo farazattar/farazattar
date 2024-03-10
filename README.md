@@ -5,8 +5,8 @@
 - In order to bridge the gap between being as a control system engineer and being as a computer engineer, I’ve dramatically developed my acquaintance with the latter. I’ve a     significant expertise on Python, Perl, PHP, C and C# programming languages.
 - Involvement in industrial facilities direct my attention to their most possessions, i.e. Data. To explore, analyze, model and predict the industry’s datasets, I’ve started     to study Data Science and Machine Learning.
 - Now, I’m interested in Data Science, especially Machine Learning (ML), Natural Language Processing (NLP) and Computer Vision (CV). I'm also have an interest in designing web   applications.
-- 🌱 I’m currently focusing on Deep Learning and Recurrent Neural Networks.  
-- 💞️ I’m looking to collaborate on projects related to industrial automation, the linkage between OT and IT, and data science.
+- 🌱 In the field of Data Science, I’m currently focusing on Deep Learning and Recurrent Neural Networks.  
+- 💞️ I’m looking to collaborate on projects related to Industrial Automation, the linkage between OT and IT, and Data Science.
 - 📫 How to reach me: You can email me at: farazattar1985@gmail.com.
 
 <!---
